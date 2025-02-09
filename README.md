@@ -97,15 +97,17 @@ function draw() {
 ### 1. Initial Layout
 
 Here’s how the simulation looks at the start, with randomly moving particles.
+![image](https://github.com/user-attachments/assets/3f19e44d-8e38-4848-8bb2-8dfc2afc956f)
 
 ### 2. Particle Trails
 
 Particles leave trails as they move, creating a dynamic and fluid motion effect.
-
+![image](https://github.com/user-attachments/assets/780375f7-203f-4c10-90ea-800f77b1bfc8)
 
 ### 3. Fading Particles
-
 As particles reach the end of their lifespan, they gradually disappear, creating an organic fade effect.
+![image](https://github.com/user-attachments/assets/8314bb8c-4f3d-4ea1-94d6-66c5b77a44fe)
+
 
 
 ## Problem-Solving and Feedback
